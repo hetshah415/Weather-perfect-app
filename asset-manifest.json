@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Weather-perfect-app/static/css/main.7152da15.css",
+    "main.js": "/Weather-perfect-app/static/js/main.8ef58f17.js",
+    "static/js/787.d9312eb8.chunk.js": "/Weather-perfect-app/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/Weather-perfect-app/index.html",
+    "main.7152da15.css.map": "/Weather-perfect-app/static/css/main.7152da15.css.map",
+    "main.8ef58f17.js.map": "/Weather-perfect-app/static/js/main.8ef58f17.js.map",
+    "787.d9312eb8.chunk.js.map": "/Weather-perfect-app/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7152da15.css",
+    "static/js/main.8ef58f17.js"
+  ]
+}
